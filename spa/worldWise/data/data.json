@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "9c13",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-02-25T09:23:29.606Z",
+      "notes": "Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome Capital, and a special comune named Comune di Roma Capitale",
+      "position": {
+        "lat": "41.902256192990514",
+        "lng": "12.488708496093752"
+      }
+    },
+    {
+      "id": "3740",
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-25T09:24:23.032Z",
+      "notes": "Barcelona, the cosmopolitan capital of Spain’s Catalonia region, is known for its art and architecture. The fantastical Sagrada Família church and other modernist landmarks designed by Antoni Gaudí dot the city. ",
+      "position": {
+        "lat": "41.38319713297051",
+        "lng": "2.1794128417968754"
+      }
+    },
+    {
+      "id": "5d6b",
+      "cityName": "Durban",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2022-08-14T10:35:33.000Z",
+      "notes": "Durban, a coastal city in eastern South Africa’s KwaZulu-Natal province, is known for its African, Indian and colonial influences. Refurbished for soccer’s 2010 World Cup, the seafront promenade runs from uShaka Marine World,",
+      "position": {
+        "lat": "-29.880363320648012",
+        "lng": "30.997924804687504"
+      }
+    },
+    {
+      "id": "0a4c",
+      "cityName": "Perth",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2025-02-25T10:37:22.000Z",
+      "notes": "Perth, capital of Western Australia, sits where the Swan River meets the southwest coast. Sandy beaches line its suburbs, and the huge, riverside Kings Park and Botanic Garden on Mount Eliza offer sweeping views of the city.",
+      "position": {
+        "lat": "-31.951874892420328",
+        "lng": "115.8563232421875"
+      }
+    },
+    {
+      "id": "bdb6",
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-25T11:54:43.595Z",
+      "notes": "Get Grammarly for Google Docs Beta Toggle Grammarly for any website Start your personalized dictionary",
+      "position": {
+        "lat": "41.65780106064238",
+        "lng": "-0.8349609375000001"
+      }
+    }
+  ]
+}
